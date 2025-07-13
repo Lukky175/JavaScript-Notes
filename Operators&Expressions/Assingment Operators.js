@@ -2,22 +2,22 @@ let a = 45, c = 45, e = 45, g = 45, i = 45, k = 45;
 let b = 4, d = 4, f = 4, h = 4, j = 4, l = 4;
 
 a = b;
-console.log(a, b); // 4, 4
+console.log(a, b);                   // 4, 4
 
 c += d;
-console.log(c, d); // 49, 4
+console.log(c, d);                   // 49, 4
 
 e -= f;
-console.log(e, f); // 41, 4
+console.log(e, f);                   // 41, 4
 
 g *= h;
-console.log(g, h); // 180, 4
+console.log(g, h);                   // 180, 4
 
 i /= j;
-console.log(i, j); // 11.25, 4
+console.log(i, j);                   // 11.25, 4
 
 k %= l;
-console.log(k, l); // 1, 4
+console.log(k, l);                   // 1, 4
 
 
 

@@ -21,8 +21,8 @@ console.log(a ? b : "fallback");     //if (a) return b, else return string;
 
 
 
-// Expression	    Result	               Explanation
-// a == b      	    false	        45 is not equal to 4
+// Expression	      Result	         Explanation
+// a == b           false	        45 is not equal to 4
 // a != b        	true	        45 is not equal to 4
 // a === b      	false	        45 strictly not equal to 4
 // a !== b       	true	        45 strictly not equal to 4
