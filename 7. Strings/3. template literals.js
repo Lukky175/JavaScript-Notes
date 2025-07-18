@@ -3,7 +3,7 @@ let g1 = "Munni"
 
 let sentence = `'${g1}' is a "Friend" of '${b1}'`
 
-console.log(sentence)
+alert(sentence)
 
 // ` is backtick and inside backtick we can use both single/Double Quotes
 

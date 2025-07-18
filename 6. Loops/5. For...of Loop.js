@@ -29,3 +29,4 @@ for (let val of arr2) {
 }
 
 // Best for: Arrays, Strings, Sets, Maps, etc.
+// Can only be used on iterable Objects (Not with Key-Value)
